@@ -1,0 +1,1 @@
+{"context":{"backupName":"BACKUP_NAME", "backupType":"daily backup", "rotation":7, "queryString":{"name":"SERVER_NAME"}}}
